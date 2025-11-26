@@ -1,0 +1,44 @@
+# Model files
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Training data (optional - remove if you want to include)
+training_images/
+test_images/
+
+# Output images
+*.png
+*.jpg
+!README_images/*.png
+!README_images/*.jpg
+
+# Logs
+*.log
+
