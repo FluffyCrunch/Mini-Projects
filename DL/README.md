@@ -171,7 +171,7 @@ The model produces colorized versions of grayscale images. Training results incl
 
 ## 👤 Author
 
-Your Name
+FluffyCrunch
 
 ## 📄 License
 
