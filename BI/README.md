@@ -53,7 +53,7 @@ This Business Intelligence project focuses on:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Mini-Projects.git
+git clone https://github.com/FluffyCrunch/Mini-Projects.git
 cd Mini-Projects/BI
 ```
 
@@ -91,7 +91,7 @@ python BI.py
 
 ```
 BI/
-├── BI.py                    # Main analysis script (to be added)
+├── BI.py                    # Main analysis script
 ├── README.md                 # This file
 ├── requirements.txt          # Python dependencies
 ├── .gitignore                # Git ignore rules
@@ -156,7 +156,7 @@ Common visualization types:
 
 ## 👤 Author
 
-Your Name
+FluffyCrunch
 
 ## 📄 License
 
