@@ -121,8 +121,8 @@ DL/
 ├── DL.py                    # Main implementation file
 ├── README.md               # This file
 ├── requirements.txt        # Python dependencies
-├── training_images/        # Training dataset (not included)
-├── test_images/            # Test images (not included)
+├── training_images/        # Training dataset 
+├── test_images/            # Test images 
 └── colorization_model.h5   # Trained model (generated after training)
 ```
 
