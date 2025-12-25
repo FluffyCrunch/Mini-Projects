@@ -29,15 +29,15 @@ Thumbs.db
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Training data (optional - remove if you want to include)
-training_images/
-test_images/
-
-# Output images
+# Output images (exclude generated colorized images, but allow test/training images)
 *.png
 *.jpg
 !README_images/*.png
 !README_images/*.jpg
+!test_images/*.png
+!test_images/*.jpg
+!training_images/*.png
+!training_images/*.jpg
 
 # Logs
 *.log
