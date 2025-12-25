@@ -56,7 +56,7 @@ The model uses an encoder-decoder architecture:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Mini-Projects.git
+git clone https://github.com/FluffyCrunch/Mini-Projects.git
 cd Mini-Projects/DL
 ```
 
@@ -171,7 +171,7 @@ The model produces colorized versions of grayscale images. Training results incl
 
 ## 👤 Author
 
-Your Name
+FluffyCrunch
 
 ## 📄 License
 
