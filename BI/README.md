@@ -165,6 +165,3 @@ This project is open source and available under the MIT License.
 ---
 
 **Note**: This is a mini-project for learning Business Intelligence concepts. Customize this README based on your specific BI project implementation.
-
-**To Do**: Add your BI analysis code to `BI.py` and update this README with specific details about your project.
-
