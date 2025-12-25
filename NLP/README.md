@@ -60,7 +60,7 @@ The system follows this workflow:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Mini-Projects.git
+git clone https://github.com/FluffyCrunch/Mini-Projects.git
 cd Mini-Projects/NLP
 ```
 
@@ -136,7 +136,6 @@ NLP/
 ├── README.md                   # This file
 ├── requirements.txt            # Python dependencies
 ├── .env                        # Environment variables (not in repo)
-├── .env.example                # Example environment file
 ├── .gitignore                  # Git ignore rules
 └── Data/
     └── ChatLog.json            # Conversation history
@@ -229,7 +228,7 @@ NLP/
 
 ## 👤 Author
 
-Your Name
+FluffyCrunch
 
 ## 📄 License
 
