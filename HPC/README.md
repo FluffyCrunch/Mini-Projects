@@ -61,7 +61,7 @@ This project implements the Huffman encoding algorithm, a lossless data compress
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Mini-Projects.git
+git clone https://github.com/FluffyCrunch/Mini-Projects.git
 cd Mini-Projects/HPC
 ```
 
@@ -248,7 +248,7 @@ Total Bits Encoded: 156
 
 ## 👤 Author
 
-Your Name
+FluffyCrunch
 
 ## 📄 License
 
