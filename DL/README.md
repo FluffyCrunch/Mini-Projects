@@ -175,7 +175,7 @@ FluffyCrunch
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
+This project is for educational purposes only. Use responsibly and only on systems you own or have explicit permission to test.
 
 ---
 
