@@ -1,14 +1,3 @@
-"""
-Business Intelligence - Data Analysis and Visualization Tool
-
-This module provides comprehensive BI capabilities including:
-- Data loading and preprocessing
-- Statistical analysis
-- Data visualization
-- Key metrics calculation
-- Report generation
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
